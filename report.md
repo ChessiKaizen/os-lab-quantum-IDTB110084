@@ -13,3 +13,6 @@
 
 ## Level 6
 <img width="1440" height="814" alt="image" src="https://github.com/user-attachments/assets/0a8b0eff-5a97-4ccd-9ae6-26b83240bc67" />
+
+## Level 7
+<img width="1440" height="1286" alt="image" src="https://github.com/user-attachments/assets/38748bf1-b189-4f61-8753-98602882bdf8" />
